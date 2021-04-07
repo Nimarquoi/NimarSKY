@@ -1,0 +1,2 @@
+# NimarSKY
+A fun bot
